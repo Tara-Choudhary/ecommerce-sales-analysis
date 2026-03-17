@@ -104,7 +104,8 @@ This project simulates real-world scenarios where data analysts and application 
 1. Create a database:
    ```sql
    CREATE DATABASE ecommerce_analysis;
-   USE ecommerce_analysis```
+   USE ecommerce_analysis
+   ```
 2. Import the dataset (`ecommerce_sales.csv`) into your SQL database
 3. Run SQL scripts from the sql/ folder in order:
    - 01_database_setup.sql
